@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2860accd.css",
-    "main.js": "/portfolio/static/js/main.36674a8a.js",
+    "main.css": "/portfolio/static/css/main.b3ffa535.css",
+    "main.js": "/portfolio/static/js/main.ee0425cd.js",
     "static/media/headshot.png": "/portfolio/static/media/headshot.5e75d2b989b07f40db93.png",
     "static/media/about_bkg.png": "/portfolio/static/media/about_bkg.35f540d59d6f1f6541ee.png",
     "static/media/cont_bg.png": "/portfolio/static/media/cont_bg.4187bca18a1775ad029c.png",
@@ -14,11 +14,11 @@
     "static/media/rightArrow.svg": "/portfolio/static/media/rightArrow.9eb90bba89b61bea045edb9718c6417f.svg",
     "static/media/close.svg": "/portfolio/static/media/close.69b0fd54262bcf9d5c0867172e821e0c.svg",
     "static/media/hamburger.svg": "/portfolio/static/media/hamburger.60b760b1e3dbe030d5e026ff48b14947.svg",
-    "main.2860accd.css.map": "/portfolio/static/css/main.2860accd.css.map",
-    "main.36674a8a.js.map": "/portfolio/static/js/main.36674a8a.js.map"
+    "main.b3ffa535.css.map": "/portfolio/static/css/main.b3ffa535.css.map",
+    "main.ee0425cd.js.map": "/portfolio/static/js/main.ee0425cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.2860accd.css",
-    "static/js/main.36674a8a.js"
+    "static/css/main.b3ffa535.css",
+    "static/js/main.ee0425cd.js"
   ]
 }
