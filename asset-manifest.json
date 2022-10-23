@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.773c2367.css",
-    "main.js": "/portfolio/static/js/main.a7530f41.js",
+    "main.css": "/portfolio/static/css/main.98c8d205.css",
+    "main.js": "/portfolio/static/js/main.c73d2336.js",
     "static/media/headshot.png": "/portfolio/static/media/headshot.5e75d2b989b07f40db93.png",
     "static/media/about_bkg.png": "/portfolio/static/media/about_bkg.35f540d59d6f1f6541ee.png",
+    "static/media/pix_frame.png": "/portfolio/static/media/pix_frame.9d53c59bf3c723d7d766.png",
     "static/media/cont_bg.png": "/portfolio/static/media/cont_bg.4187bca18a1775ad029c.png",
     "static/media/bkg.png": "/portfolio/static/media/bkg.49382bd38c80f6e2a77f.png",
     "static/media/bkg_mob.png": "/portfolio/static/media/bkg_mob.4eef1e549df36a24e514.png",
-    "static/media/logo.svg": "/portfolio/static/media/logo.9c52718754577307b00568ede444f022.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.869b4a8abb9a87f91492b114b1b8aa78.svg",
     "index.html": "/portfolio/index.html",
-    "static/media/downArrow.svg": "/portfolio/static/media/downArrow.4865b500edc21f3b4af8178a2d41c337.svg",
-    "static/media/directArrow.svg": "/portfolio/static/media/directArrow.4a352e056c918c8cf7dc455355f980d8.svg",
-    "static/media/rightArrow.svg": "/portfolio/static/media/rightArrow.9eb90bba89b61bea045edb9718c6417f.svg",
-    "static/media/close.svg": "/portfolio/static/media/close.69b0fd54262bcf9d5c0867172e821e0c.svg",
-    "static/media/hamburger.svg": "/portfolio/static/media/hamburger.60b760b1e3dbe030d5e026ff48b14947.svg",
-    "main.773c2367.css.map": "/portfolio/static/css/main.773c2367.css.map",
-    "main.a7530f41.js.map": "/portfolio/static/js/main.a7530f41.js.map"
+    "static/media/downArrow.svg": "/portfolio/static/media/downArrow.fba9f12e19e1c7deddefe061ff87a7e8.svg",
+    "static/media/directArrow.svg": "/portfolio/static/media/directArrow.327de02d0dc28e6435807e9d6abac54b.svg",
+    "static/media/rightArrow.svg": "/portfolio/static/media/rightArrow.eda8150b65d9621a70c1db27c817ceac.svg",
+    "static/media/close.svg": "/portfolio/static/media/close.11bc22b98b5ecc4d8438d49b04541a65.svg",
+    "static/media/hamburger.svg": "/portfolio/static/media/hamburger.6e6e500f5be170e10ec5f1970aa25be0.svg",
+    "main.98c8d205.css.map": "/portfolio/static/css/main.98c8d205.css.map",
+    "main.c73d2336.js.map": "/portfolio/static/js/main.c73d2336.js.map"
   },
   "entrypoints": [
-    "static/css/main.773c2367.css",
-    "static/js/main.a7530f41.js"
+    "static/css/main.98c8d205.css",
+    "static/js/main.c73d2336.js"
   ]
 }
